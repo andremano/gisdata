@@ -4,18 +4,9 @@ SPATIAL DATA FOR GIS
 
 .. important:: Overall objectives
 
-   After this session you should be able to:
-
-   + Recognize the variety of spatial data available for risk assessment and how different hazards require specific spatial, spectral, and temporal characteristics. Assess these characteristics across data types while considering additional constraints that impact data selection;
-   + Understand what data sovereignty is and why it is important.
-
-
-.. note:: What will you learn
-
-   In this session you will how learn to:
-
-   + Search and obtain key datasets;
-   + Evaluate the quality of a dataset with regards to its suitability for a purpose;
+   + Recognize the variety of spatial data available;
+   + Know where to get spatial data from global data providers
+   + Recognize the formats in which it is typically distributed
 
 
 What is Spatial data?
