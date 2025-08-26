@@ -1,6 +1,6 @@
-=================================
-Data for Disaster Risk Management
-=================================
+====================
+SPATIAL DATA FOR GIS
+====================
 
 .. important:: Overall objectives
 
