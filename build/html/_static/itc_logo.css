@@ -1,0 +1,5 @@
+.awesome-header .awesome-header-logo img {
+    max-height: 60px;  /* or any height you prefer */
+    height: auto;
+    width: auto;
+}
