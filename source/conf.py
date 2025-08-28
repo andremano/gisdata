@@ -16,6 +16,7 @@ release = ''
 
 import os
 import sys
+import sphinx_readable_theme
 
 sys.path.append(os.path.abspath("./_ext"))
 
@@ -38,7 +39,8 @@ link_file = ['_static/assets/external_links.rst',
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_permalinks_icon = '<span>#</span>'
-html_theme = 'alabaster'
+html_theme = 'readable'
+html_theme_path = [sphinx_readable_theme.get_html_theme_path()]
 html_logo = "_static/itc_logo.png"
 html_static_path = ["_static"]
 html_css_files = [
@@ -53,6 +55,7 @@ html_theme_options = {
 # sphinx default themes
 # html_theme = 'alabaster'
 # html_theme = 'pyramid'
+# html_theme = 'sphinx-book-theme'
 
 # Allows storing external links in separated rst
 rst_epilog=""

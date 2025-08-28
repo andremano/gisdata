@@ -10,6 +10,7 @@ Welcome spatial data for GIS
    :maxdepth: 3
 
    spatial_data_for_GIS
+   data-entry
    gis-formats
 
 .. toctree::
