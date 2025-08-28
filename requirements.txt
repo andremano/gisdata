@@ -1,5 +1,5 @@
 sphinxawesome_theme
 sphinx-design
 docxbuilder
-readable
+sphinx_readable_theme
 

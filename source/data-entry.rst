@@ -3,7 +3,7 @@
 Data Entry
 ==========
 
-In this exercise, you will create spatial data from scratch through digitization, a form of data entry. You will learn how to design a data model and ensure topological correctness.
+In this exercise, you will create spatial data from scratch through digitalization, a form of data entry. You will learn how to design a data model and ensure topological correctness.
 Additionally, the exercise demonstrates a common spatial data workflow: converting tabular data into a spatial format.
 
 Direct Spatial Data Acquisition 
