@@ -8,7 +8,7 @@
 
 project = 'Welcome to Spatial Data for GIS'
 copyright = 'University of Twente, 2025'
-author = 'André da Silva Mano (editor), Cees van Vesten (scientific coordination), Nanette Kingma, Elinor Meredith, Irene Manzella and Catherine Nabukulu'
+author = 'André da Silva Mano'
 release = ''
 
 # -- General configuration ---------------------------------------------------
