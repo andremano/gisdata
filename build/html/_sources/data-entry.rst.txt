@@ -78,11 +78,11 @@ Task 1
 Task 2
    Now that you know what you want to extract and how are you are going to abstract it, proceed with the creation of the new layers. Digitise at least three features per layer. 
 
-   For this task, you may want to watch the video tutorial on `basic digitizing <https://player.vimeo.com/external/316725601.hd.mp4?s=c6af68bb5180619816eb0b847933d22d0f2972f2&profile_id=175>`_:
+   For this task, you may want to watch the video tutorial on `basic digitizing <https://utwente.yuja.com/V/Video?v=610811&node=2983379&a=7862700>`_:
 
 .. raw:: html
     
-   <div style="padding:53.75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/316725601?color=007e83&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+   <div style="padding:53.75% 0 0 0;position:relative;"><iframe src="https://utwente.yuja.com/V/Video?v=610811&node=2983379&a=7862700" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 \
 
